@@ -1,2 +1,3 @@
 # DSC180A-Methodology-4
-Liam Manatt
+
+Liam Manatt, Kyla Park
